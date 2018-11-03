@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * @author Pavel Tsekhanovich 03.11.2018
+ */
 public class Main {
 
     private static Map<Integer, Location> locations = new HashMap<Integer, Location>();

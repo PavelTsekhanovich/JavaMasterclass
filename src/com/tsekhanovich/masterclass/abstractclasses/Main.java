@@ -3,7 +3,6 @@ package com.tsekhanovich.masterclass.abstractclasses;
 /**
  * @author Pavel Tsekhanovich 29.10.2018
  */
-
 public class Main {
 
     // For this challenge, create an abstract class to define items that can be stored in a list.
